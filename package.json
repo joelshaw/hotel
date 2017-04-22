@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/joelshaw/hotel/issues"
   },
-  "homepage": "https://github.com/joelshaw/hotel#readme"
+  "homepage": "https://github.com/joelshaw/hotel#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.3"
+  }
 }
