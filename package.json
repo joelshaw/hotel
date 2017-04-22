@@ -1,0 +1,19 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "Hotel is an ES6 based application for hotel room management (simulation).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelshaw/hotel.git"
+  },
+  "author": "Joel Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelshaw/hotel/issues"
+  },
+  "homepage": "https://github.com/joelshaw/hotel#readme"
+}
